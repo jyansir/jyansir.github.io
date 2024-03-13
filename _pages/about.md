@@ -40,9 +40,9 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 **Jiahuan Yan**, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu, Jintai Chen, **<span style="color:red">(SpotLight, Notable Top 5%)</span>**
 
 [**repo**](https://github.com/jyansir/tp-berta)
-- Background: Feature heterogeneity poses challenges on tabular transfer learning. As versatile learners, pre-trained language models (LMs) serve to transfer knowledge through the text space, but current LM-based tabular models ignore the sensitivity of numerical values and tabular feature organization.
+- Background: Feature heterogeneity poses challenges on tabular transfer learning. As versatile learners, pre-trained language models (LMs) serve to transfer knowledge through the text space, but current tabular LMs ignore the sensitivity of tabular numerical values and feature organization.
 - **TL;DR:** This work proposed relative magnitude tokenization, a distributed numerical feature embedding technique, and intra-feature attention, a reasonably contextualized mechanism, both for tabular feature adaption to the modern Transformer-based LM architecture.
-- **Academic Impact:** The resulting pre-trained LM TP-BERTa surpasses non-LM baselines on 145 downstream tabular prediction datasets, pivot analysis exhibits further significant improvement when the discrete feature dominates.
+- **Academic Impact:** The resulting pre-trained LM TP-BERTa surpasses non-LM baselines on 145 downstream tabular datasets, pivot analysis exhibits further significant improvement when the discrete feature dominates.
 </div>
 </div>
 
@@ -52,7 +52,7 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 
 [T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://ojs.aaai.org/index.php/AAAI/article/view/26272)
 
-Jiahuan Yan, Jintai Chen, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **<span style="color:red">(Oral, Top 20%)</span>**
+**Jiahuan Yan**, Jintai Chen, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **<span style="color:red">(Oral, Top 20%)</span>**
 
 [**repo**](https://github.com/jyansir/t2g-former)
 </div>
@@ -63,7 +63,7 @@ Jiahuan Yan, Jintai Chen, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **<span style="co
 
 [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://aclanthology.org/2023.findings-emnlp.517.pdf)
 
-Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu, Jintai Chen, **EMNLP-Findings**
+**Jiahuan Yan**, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu, Jintai Chen, **EMNLP-Findings**
 
 [**repo**](https://github.com/jyansir/text2tree)
 </div>
