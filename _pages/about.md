@@ -19,7 +19,7 @@ redirect_from:
 
 I am now working on the research of deep learning and large language model adaption to tabular data fields. If you are seeking any form of academic discussion or cooperation, please feel free to email me at [jyansir@zju.edu.cn](mailto:jyansir@zju.edu.cn).
 
-I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and am a full-time PhD student in the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), advised by [Jian Wu (吴健)](https://person.zju.edu.cn/0004274). I also collaborate with the researcher [Jintai Chen](https://scholar.google.com/citations?user=ZiY3xYEAAAAJ) from the University of Illinois Urbana-Champaign closely.
+I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and am a full-time PhD student in the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), advised by [Jian Wu (吴健)](https://person.zju.edu.cn/0004274). I also collaborate with the researcher [Jintai Chen (陈晋泰)](https://scholar.google.com/citations?user=ZiY3xYEAAAAJ) from the University of Illinois Urbana-Champaign closely.
 
 My research interest includes tabular language model pre-training, relational deep learning and neural architecture engineering.
 
@@ -37,10 +37,10 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 
 [Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi)
 
-**Jiahuan Yan**, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu, Jintai Chen, **ICLR <span style="color:red">(SpotLight, Notable Top 5%)</span>**, 2024
+**Jiahuan Yan**, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu, Jintai Chen, **<span style="color:red">(SpotLight, Notable Top 5%)</span>**
 
 [**repo**](https://github.com/jyansir/tp-berta)
-- Background: Heterogeneity of tabular features poses challenges on tabular transfer learning. As versatile learners, pre-trained language models (LMs) serve to transfer knowledge through the text space, but current LM-based tabular models ignore the sensitivity of numerical values and tabular feature organization.
+- Background: Feature heterogeneity poses challenges on tabular transfer learning. As versatile learners, pre-trained language models (LMs) serve to transfer knowledge through the text space, but current LM-based tabular models ignore the sensitivity of numerical values and tabular feature organization.
 - **TL;DR:** This work proposed relative magnitude tokenization, a distributed numerical feature embedding technique, and intra-feature attention, a reasonably contextualized mechanism, both for tabular feature adaption to the modern Transformer-based LM architecture.
 - **Academic Impact:** The resulting pre-trained LM TP-BERTa surpasses non-LM baselines on 145 downstream tabular prediction datasets, pivot analysis exhibits further significant improvement when the discrete feature dominates.
 </div>
@@ -52,18 +52,18 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 
 [T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://ojs.aaai.org/index.php/AAAI/article/view/26272)
 
-Jiahuan Yan, Jintai Chen, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **AAAI <span style="color:red">(Oral, Top 20%)</span>**, 2023
+Jiahuan Yan, Jintai Chen, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **<span style="color:red">(Oral, Top 20%)</span>**
 
 [**repo**](https://github.com/jyansir/t2g-former)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/t2g-model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/t2t-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://aclanthology.org/2023.findings-emnlp.517.pdf)
 
-Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu, Jintai Chen, **EMNLP-Findings**, 2023
+Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu, Jintai Chen, **EMNLP-Findings**
 
 [**repo**](https://github.com/jyansir/text2tree)
 </div>
