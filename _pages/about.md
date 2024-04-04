@@ -96,7 +96,7 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔎 Reviews
-- Reviewer for Conferences: ACL 2024, KDD 2024.
+- Reviewer for Conferences: ACL 2024, KDD 2024, IJCAI 2024.
 
 # 📖 Educations
 - *2020.09 - now*,     PhD, Zhejiang University, Hangzhou. 
