@@ -86,17 +86,21 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 </div>
 
 - ``UnderReview 2024`` [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](), **Jiahuan Yan**, Jintai Chen, QianXingWang, Danny Z Chen, Jian Wu, **Unreleased**
-- ``Preprint 2024`` [EXCELFORMER: A neural network surpassing GBDTs on tabular data](https://arxiv.org/pdf/2301.02819.pdf), Jintai Chen$^\*$, **Jiahuan Yan$^\*$(equally contributed)**, Danny Z. Chen, Jian Wu \| [**repo**](https://github.com/WhatAShot/ExcelFormer) [Code Contributor](https://github.com/WhatAShot/ExcelFormer/graphs/contributors)
+- ``Preprint 2024`` [EXCELFORMER: A neural network surpassing GBDTs on tabular data](https://arxiv.org/pdf/2301.02819.pdf), Jintai Chen$^\*$, **Jiahuan Yan$^\*$(equally contributed)**, Danny Z. Chen, Jian Wu \| [**repo**](https://github.com/WhatAShot/ExcelFormer) | [**Exclusive Code Contributor**](https://github.com/WhatAShot/ExcelFormer/graphs/contributors) | This work is included by the popular tabular deep learning library [PyTorch Frame ![](https://img.shields.io/github/stars/pyg-team/pytorch-frame)](https://github.com/pyg-team/pytorch-frame).
+- `IJCAI 2024` Personalized Heart Disease Detection via ECG Digital Twin Generation, Yaojun Hu, Jintai Chen, Lianting Hu, Dantong Li, **Jiahuan Yan**, Haochao Ying, Huiying Liang, Jian Wu
 - ``ACM-MM 2023`` <span style="color:red">(Oral)</span> [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://dl.acm.org/doi/abs/10.1145/3581783.3612113), Yixuan Wu, Jintai Chen, **Jiahuan Yan**, Yiheng Zhu, Danny Z Chen, Jian Wu
 - `NeurIPS 2023` [Sample-efficient multi-objective molecular optimization with gflownets](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fbc9981dd6316378aee7fd5975250f21-Abstract-Conference.html), Yiheng Zhu, Jialu Wu, Chaowen Hu, **Jiahuan Yan**, kim hsieh, Tingjun Hou, Jian Wu
 - `J-BHI 2023` [Polygonal Approximation Learning for Convex Object Segmentation in Biomedical Images with Bounding Box Supervision](https://ieeexplore.ieee.org/abstract/document/10354298/), Wenhao Zheng, Jintai Chen, Kai Zhang, **Jiahuan Yan**, Jinhong Wang, Yi Cheng, Bang Du, Danny Z Chen, Honghao Gao, Jian Wu, Hongxia Xu
+
+# 🛠️ Open Source Projects
+- Contributor to deep tabular model and data preprocessing modules for popular tabular deep learning library [PyTorch Frame ![](https://img.shields.io/github/stars/pyg-team/pytorch-frame)](https://github.com/pyg-team/pytorch-frame) <img src='images/pytorch_frame_logo.png' style='width: 6em;'> (created by the PyG team).
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔎 Reviews
-- Reviewer for Conferences: ACL 2024, KDD 2024, IJCAI 2024.
+- Reviewer for Conferences: ACL 2024, KDD 2024, IJCAI 2024, ACM MM 2024.
 
 # 📖 Educations
 - *2020.09 - now*,     PhD, Zhejiang University, Hangzhou. 
