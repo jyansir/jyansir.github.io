@@ -40,9 +40,10 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 **Jiahuan Yan**, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Z. Chen, Jimeng Sun, Jian Wu, Jintai Chen, **<span style="color:red">(SpotLight, Notable Top 5%)</span>**
 
 [**repo**](https://github.com/jyansir/tp-berta)
-- Background: Feature heterogeneity poses challenges on tabular transfer learning. As versatile learners, pre-trained language models (LMs) serve to transfer knowledge through the text space, but current tabular LMs ignore the sensitivity of tabular numerical values and feature organization.
+<!-- - Background: Feature heterogeneity poses challenges on tabular transfer learning. As versatile learners, pre-trained language models (LMs) serve to transfer knowledge through the text space, but current tabular LMs ignore the sensitivity of tabular numerical values and feature organization. -->
 - **TL;DR:** This work proposed relative magnitude tokenization, a distributed numerical feature embedding technique, and intra-feature attention, a reasonably contextualized mechanism, both for tabular feature adaption to the modern Transformer-based LM architecture.
-- **Academic Impact:** The resulting pre-trained LM *TP-BERTa* surpasses non-LM baselines on 145 downstream tabular datasets, pivot analysis exhibits further significant improvement when the discrete feature dominates.
+- **Academic Impact:** The resulting pre-trained LM *TP-BERTa* surpasses non-LM baselines on 145 downstream tabular prediction datasets, pivot analysis exhibits further significant improvement when the discrete feature dominates. This work is included by many tabular LLM paper repos, such as [Awesome-LLM-Tabular![](https://img.shields.io/github/stars/johnnyhwu/Awesome-LLM-Tabular?style=social
+)](https://github.com/johnnyhwu/Awesome-LLM-Tabular) and promoted by known media, such as [新智元](https://mp.weixin.qq.com/s/UIoXorW6vH0usC2GEn7BVA).
 </div>
 </div>
 
@@ -114,7 +115,7 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔎 Field Activities
-- Reviewer for Conferences: ACL 2024, KDD 2024, IJCAI 2024, ACM MM 2024.
+- Reviewer for Conferences: NeurIPS 2024, ACL 2024, KDD 2024, IJCAI 2024, ACM MM 2024.
 
 # 📖 Educations
 - *2020.09 - now*,     PhD, Zhejiang University, Hangzhou. 
