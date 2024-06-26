@@ -47,7 +47,20 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UnderReview 2024</div><img src='images/serval-framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/tmlp-model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs]()
+
+**Jiahuan Yan**, Jintai Chen, Qianxing Wang, Danny Z Chen, Jian Wu, **<span style="color:red">(Oral)</span>**
+
+[**repo**](https://github.com/jyansir/tmlp)
+- **TL;DR:** This work explored a GBDT-DNN hybrid framework to address the model selection dilemma in tabular prediction and introduced *T-MLP*, a tree-hybrid MLP architecture combining the strengths of both GBDTs and DNNs. T-MLP benefits from using DNN capacity to emulate GBDT development process, i.e., entropy-driven feature gate, tree pruning and model ensemble. Experiments on 88 datasets from 4 benchmarks (covering DNN- and GBDT-favored ones) show that T-MLP is competitive with extensively tuned SOTA DNNs and GBDTs, all achieved with pre-fixed hyperparameters, compact model size and reduced training duration.
+</div>
+</div>
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UnderReview 2024</div><img src='images/serval-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570.pdf)
@@ -57,7 +70,7 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 - **TL;DR:** This work proposed *SERVAL*, an unsupervised iterative learning pipeline using synergy between ChatGPT and small vertical models. Experiments on various classical diagnosis datasets (tabular and textual tasks) demonstrate *SERVAL* attains fully-supervised competitive results even in absence of gold labels, emerging as an inspiring approach for zero-shot prediction and cost-free annotation in vertical domains.
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/t2g-model.png' alt="sym" width="100%"></div></div>
@@ -85,8 +98,9 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 </div>
 </div>
 
-- ``UnderReview 2024`` [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](), **Jiahuan Yan**, Jintai Chen, QianXingWang, Danny Z Chen, Jian Wu, **Unreleased**
-- ``Preprint 2024`` [EXCELFORMER: A neural network surpassing GBDTs on tabular data](https://arxiv.org/pdf/2301.02819.pdf), Jintai Chen$^\*$, **Jiahuan Yan$^\*$(equally contributed)**, Danny Z. Chen, Jian Wu \| [**repo**](https://github.com/WhatAShot/ExcelFormer) \| [**Exclusive Code Contributor**](https://github.com/WhatAShot/ExcelFormer/graphs/contributors) \| This work is included by the popular tabular deep learning library [PyTorch Frame ![](https://img.shields.io/github/stars/pyg-team/pytorch-frame)](https://github.com/pyg-team/pytorch-frame).
+<!-- - ``UnderReview 2024`` [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](), **Jiahuan Yan**, Jintai Chen, QianXingWang, Danny Z Chen, Jian Wu, **Unreleased** -->
+- ``Preprint 2024`` [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570.pdf), **Jiahuan Yan**, Jintai Chen, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu
+- ``KDD 2024`` <span style="color:red">(Oral)</span> [Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819.pdf), Jintai Chen$^\*$, **Jiahuan Yan$^\*$(equally contributed)**, Qiyuan Chen, Danny Z. Chen, Jian Wu \| [**repo**](https://github.com/WhatAShot/ExcelFormer) \| [**Exclusive Code Contributor**](https://github.com/WhatAShot/ExcelFormer/graphs/contributors) \| This work is included by the popular tabular deep learning library [PyTorch Frame ![](https://img.shields.io/github/stars/pyg-team/pytorch-frame)](https://github.com/pyg-team/pytorch-frame).
 - `IJCAI 2024` Personalized Heart Disease Detection via ECG Digital Twin Generation, Yaojun Hu, Jintai Chen, Lianting Hu, Dantong Li, **Jiahuan Yan**, Haochao Ying, Huiying Liang, Jian Wu
 - ``ACM-MM 2023`` <span style="color:red">(Oral)</span> [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://dl.acm.org/doi/abs/10.1145/3581783.3612113), Yixuan Wu, Jintai Chen, **Jiahuan Yan**, Yiheng Zhu, Danny Z Chen, Jian Wu
 - `NeurIPS 2023` [Sample-efficient multi-objective molecular optimization with gflownets](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fbc9981dd6316378aee7fd5975250f21-Abstract-Conference.html), Yiheng Zhu, Jialu Wu, Chaowen Hu, **Jiahuan Yan**, kim hsieh, Tingjun Hou, Jian Wu
