@@ -21,7 +21,7 @@ I am now working on the research of deep learning and large language model adapt
 
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and am a full-time PhD student in the College of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), advised by [Jian Wu (吴健)](https://person.zju.edu.cn/0004274). I also collaborate with the researcher [Jintai Chen (陈晋泰)](https://scholar.google.com/citations?user=ZiY3xYEAAAAJ) from the University of Illinois Urbana-Champaign closely.
 
-My research interest includes tabular language model pre-training, relational deep learning and neural architecture engineering.
+My research interest includes foundation model pre-training, [relational deep learning](https://proceedings.mlr.press/v235/fey24a.html) and neural architecture engineering for tabular data or multi-table prediction.
 
 I am also an amateur photographer and ACG enthusiast, and very willing to join relevant offline activities in my spare time.
 
@@ -115,7 +115,7 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🔎 Field Activities
-- Reviewer for Conferences: NeurIPS 2024, ACL 2024, KDD 2024, IJCAI 2024, ACM MM 2024.
+- Reviewer for Conferences: ICLR 2025, KDD 2025, NeurIPS 2024, ACL 2024, KDD 2024, EMNLP 2024, IJCAI 2024, ACM MM 2024.
 
 # 📖 Educations
 - *2020.09 - now*,     PhD, Zhejiang University, Hangzhou. 
