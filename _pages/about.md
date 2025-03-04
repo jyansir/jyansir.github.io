@@ -19,9 +19,10 @@ redirect_from:
 
 I am now working on the research of deep learning and large language model adaption to tabular data fields. If you are seeking any form of academic discussion or cooperation, please feel free to email me at [jyansir@zju.edu.cn](mailto:jyansir@zju.edu.cn).
 
-I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and am a full-time PhD student in the College of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), advised by [Jian Wu (吴健)](https://person.zju.edu.cn/0004274). I also collaborate with the researcher [Jintai Chen (陈晋泰)](https://scholar.google.com/citations?user=ZiY3xYEAAAAJ) from the University of Illinois Urbana-Champaign closely.
+I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and am a full-time PhD student in the College of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), advised by [Jian Wu (吴健)](https://person.zju.edu.cn/0004274). I also collaborate with the assistant professor [Jintai Chen (陈晋泰)](https://scholar.google.com/citations?user=ZiY3xYEAAAAJ) from the Hong Kong University of Science and Technology (HKUST) closely.
+<!-- I also collaborate with the researcher [Jintai Chen (陈晋泰)](https://scholar.google.com/citations?user=ZiY3xYEAAAAJ) from the University of Illinois Urbana-Champaign closely. -->
 
-My research interest includes foundation model pre-training, [relational deep learning](https://proceedings.mlr.press/v235/fey24a.html) and neural architecture engineering for tabular data or multi-table prediction.
+My research interest includes foundation model, [relational deep learning](https://proceedings.mlr.press/v235/fey24a.html) and neural architecture engineering for tabular data or multi-table prediction.
 
 I am also an amateur photographer and ACG enthusiast, and very willing to join relevant offline activities in my spare time.
 
@@ -110,12 +111,14 @@ I am also an amateur photographer and ACG enthusiast, and very willing to join r
 # 🛠️ Open Source Projects
 - Contributor to deep tabular model and data preprocessing modules for popular tabular deep learning library [PyTorch Frame ![](https://img.shields.io/github/stars/pyg-team/pytorch-frame)](https://github.com/pyg-team/pytorch-frame) <img src='images/pytorch_frame_logo.png' style='width: 6em;'> (created by the PyG team).
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- 2025.03, Excellent Doctoral Graduates of Zhejiang University (Top 1%).
+- 2024.10, National Scholarship of China (Top 1%). 
+- 2021.10, Excellent Graduate Student Cadre of Zhejiang University (Top 1%).
 
 # 🔎 Field Activities
-- Reviewer for Conferences: ICLR 2025, KDD 2025, NeurIPS 2024, ACL 2024, KDD 2024, EMNLP 2024, IJCAI 2024, ACM MM 2024.
+- Reviewer for Conferences: ICML 2025, ICLR 2025, KDD 2025, AISTATS 2025, NeurIPS 2024, ACL 2024, KDD 2024, EMNLP 2024, IJCAI 2024, ACM MM 2024.
+- Reviewer for Journals: TKDE 2025.
 
 # 📖 Educations
 - *2020.09 - now*,     PhD, Zhejiang University, Hangzhou. 

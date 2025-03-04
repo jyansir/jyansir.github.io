@@ -12,14 +12,14 @@ main:
   - title: "Open Source Projects"
     url: "/#-open-source-projects"
 
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Field Activities"
     url: "/#-field-activities"
+    
+  - title: "Educations"
+    url: "/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
